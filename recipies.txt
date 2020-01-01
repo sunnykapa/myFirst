@@ -6,6 +6,10 @@ chicken
 mutton
 sweet
 
+beans
+paneer
+piza
+
 More to come
 
 
