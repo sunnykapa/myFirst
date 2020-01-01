@@ -2,5 +2,8 @@
 
 Welcome to kitchen
 
+chicken
+mutton
+sweet
 
 More to come
